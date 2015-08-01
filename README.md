@@ -1,0 +1,2 @@
+# StartMEAN
+MEAN projects
